@@ -91,7 +91,7 @@ We use `echo` to print statements in PHP
 <!-- Code Block -->
 ```php
 
-echo ("This is some random text")
+echo "This is some random text"
 
 ```
 
